@@ -21,10 +21,10 @@ get_part('header');
                             A MEFEMA Hospitality em Moçambique oferece experiências de hospedagem de excelência, onde o conforto e a hospitalidade se unem para tornar a sua estadia inesquecível.
                         </p>
                         <div class="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
-                            <a href="#orcamentos" class="bg-white text-[#B8860B] px-8 py-3 rounded-lg font-bold text-lg hover:bg-gray-100 transition-all flex items-center justify-center gap-2">
-                                Fazer Reserva <i data-lucide="arrow-right" class="w-5 h-5"></i>
+                            <a href="pages/reservas" class="bg-white text-[#B8860B] px-8 py-3 rounded-lg font-bold text-lg hover:bg-gray-100 transition-all flex items-center justify-center gap-2">
+                                Reservas <i data-lucide="arrow-right" class="w-5 h-5"></i>
                             </a>
-                            <a href="#sobre" class="border-2 border-white/30 hover:bg-white/10 px-8 py-3 rounded-lg font-bold text-lg transition-all text-center">
+                            <a href="pages/sobre" class="border-2 border-white/30 hover:bg-white/10 px-8 py-3 rounded-lg font-bold text-lg transition-all text-center">
                                 Conhecer o Estabelecimento
                             </a>
                         </div>
