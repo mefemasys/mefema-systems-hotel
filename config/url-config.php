@@ -2,7 +2,7 @@
 // config/config.php
 
 // URL base do projecto
-define('BASE_URL', 'https://demo-hotel-mefema.mefemasys.co.mz'); // muda para o teu domínio real
+define('BASE_URL', 'https://demo.mefemasys.co.mz/mefema-systems-hotel'); // muda para o teu domínio real
 
 /**
  * Retorna URL absoluta para o ficheiro/página fornecida
